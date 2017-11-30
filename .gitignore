@@ -1,3 +1,6 @@
+# Config file including creds
+config.js
+
 # Logs
 logs
 *.log
