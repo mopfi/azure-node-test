@@ -1,5 +1,5 @@
 {
-    "name": "masa",
+    "name": "catalog",
     "description": "Simple test app for Azure App Service",
     "version": "0.0.1",
     "private": true,
@@ -12,6 +12,7 @@
         "start": "node index.js"
     },
     "dependencies": {
+        "express": "^4.16.2",
         "tedious": "^2.1.5"
     }
 }
